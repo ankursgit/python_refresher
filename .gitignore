@@ -1,0 +1,44 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# JupyterLab virtual documents (temporary files)
+.virtual_documents/
+
+# Anaconda project metadata (if not needed for reproducibility)
+anaconda_projects/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (if using)
+.vscode/
+
+# Logs and outputs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Package management
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook autosave backups (if any)
+*.ipynb~
+
+# Optional: exclude large data files if not versioned
+data/
+*.csv
+*.tsv
+*.xlsx
